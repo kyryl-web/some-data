@@ -1,0 +1,101 @@
+age,income,debt,education,employment,target
+56,3695,2931,college,unemployed,0
+46,6258,197,high school,part-time,1
+32,6618,1930,college,part-time,1
+60,7736,3582,high school,full-time,1
+25,1391,608,college,part-time,0
+38,6892,3272,graduate,full-time,1
+56,4561,1147,postgraduate,unemployed,0
+36,7184,4282,high school,unemployed,1
+40,4099,3397,high school,unemployed,0
+28,7278,2511,postgraduate,unemployed,1
+28,9392,1794,high school,full-time,1
+41,4104,659,high school,part-time,0
+53,8215,2811,college,unemployed,1
+57,3454,1369,high school,part-time,0
+41,9996,1986,graduate,full-time,1
+20,3731,146,graduate,full-time,0
+39,9154,3219,postgraduate,full-time,1
+19,6056,2911,high school,unemployed,1
+41,9110,1734,postgraduate,part-time,1
+61,4840,1843,graduate,part-time,0
+47,2028,488,high school,part-time,0
+55,8385,2976,high school,full-time,1
+19,1502,1959,postgraduate,unemployed,0
+38,7910,2385,graduate,full-time,1
+50,7938,2919,high school,full-time,1
+29,5488,4736,postgraduate,part-time,1
+39,1206,1802,graduate,full-time,0
+61,6134,4061,postgraduate,part-time,1
+42,6977,3369,college,unemployed,1
+44,8721,262,high school,part-time,1
+59,8035,623,college,unemployed,1
+45,2484,1016,graduate,part-time,0
+33,8858,3643,college,full-time,1
+32,1863,4976,college,full-time,0
+64,3790,2049,graduate,unemployed,0
+61,8408,3723,postgraduate,unemployed,1
+20,9755,4548,college,unemployed,1
+54,6116,3108,postgraduate,part-time,1
+24,7019,4090,college,part-time,1
+38,2757,2056,postgraduate,unemployed,0
+26,8574,3170,graduate,full-time,1
+56,7374,1682,college,part-time,1
+35,7892,2255,graduate,part-time,1
+21,2678,1154,college,part-time,0
+42,4242,4499,graduate,unemployed,0
+31,5636,3191,graduate,unemployed,1
+26,2059,1696,college,unemployed,0
+43,7668,3991,college,unemployed,1
+19,4157,4723,college,unemployed,0
+37,6915,4682,high school,full-time,1
+45,3693,1648,postgraduate,full-time,0
+64,4627,1445,high school,unemployed,0
+24,6450,4199,high school,part-time,1
+61,2663,3923,graduate,unemployed,0
+25,6592,253,college,full-time,1
+64,8392,3183,postgraduate,full-time,1
+52,2306,2557,graduate,part-time,0
+31,7776,98,high school,full-time,1
+34,6864,2200,college,unemployed,1
+53,8526,2961,graduate,part-time,1
+57,9901,4973,college,unemployed,1
+21,6575,4433,graduate,unemployed,1
+19,6530,3777,college,part-time,1
+23,5413,2869,high school,unemployed,1
+59,4748,3234,postgraduate,full-time,0
+21,1663,3791,high school,unemployed,0
+46,2998,956,postgraduate,part-time,0
+35,8994,4067,college,part-time,1
+43,2495,160,graduate,part-time,0
+61,4304,4493,high school,unemployed,0
+51,4763,1300,postgraduate,part-time,0
+27,6232,4911,high school,part-time,1
+53,2853,3987,postgraduate,unemployed,0
+31,7585,1527,high school,full-time,1
+48,2291,1218,postgraduate,unemployed,0
+32,4581,4496,postgraduate,part-time,0
+25,8554,4735,college,part-time,1
+31,8280,3104,postgraduate,unemployed,1
+40,2636,2735,college,full-time,0
+57,4696,4555,postgraduate,part-time,0
+38,1698,954,graduate,part-time,0
+33,5737,4565,graduate,part-time,1
+62,1854,3446,graduate,unemployed,0
+35,9164,1045,postgraduate,part-time,1
+64,6855,1693,college,full-time,1
+41,8392,3436,college,part-time,1
+43,7528,562,postgraduate,part-time,1
+42,6249,2485,graduate,full-time,1
+62,6172,3354,graduate,part-time,1
+58,2707,225,college,unemployed,0
+46,6791,4893,graduate,unemployed,1
+32,6535,959,high school,unemployed,1
+62,5931,4548,college,full-time,1
+18,4510,3067,graduate,part-time,0
+42,1202,815,college,unemployed,0
+24,5218,4754,high school,full-time,1
+26,9958,4642,college,part-time,1
+41,5389,3120,college,full-time,1
+18,3327,16,college,unemployed,0
+61,9004,1243,college,unemployed,1
